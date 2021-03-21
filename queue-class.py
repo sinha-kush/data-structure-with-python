@@ -41,8 +41,7 @@ class Checkqueue(unittest.TestCase):
         self.assertRaises("Index Error", q1.pop())
 
 
-print("hello world")
-print("hello")
+
 if __name__ == "main":
     unittest.main()
 
